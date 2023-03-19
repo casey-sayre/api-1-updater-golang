@@ -96,7 +96,7 @@ func main() {
 
   // poll sqs queue and sends any messages to channel chnMessages
 
-	endpoint := "http://golang_api_localstack:4566"
+	endpoint := "http://golang_api_1_localstack:4566"
 
 	sess := session.Must(session.NewSession(&aws.Config{
 		Region:      aws.String("us-east-1"),
