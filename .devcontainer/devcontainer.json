@@ -22,6 +22,6 @@
     "--security-opt",
     "seccomp=unconfined",
     "--network=api-1-network",
-    "--name=api-1-news-devcontainer"
+    "--name=api-1-updater-golang"
   ]
 }
