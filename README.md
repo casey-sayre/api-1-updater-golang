@@ -2,6 +2,7 @@
 Go Implementation of WebSocket Server
 
 Polls a queue for updated data
+
 Broadcasts realtime updates to WebSocket clients
 
 System Overview
